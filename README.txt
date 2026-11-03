@@ -1,0 +1,1 @@
+Extract ZIP and open index.html. Responsive interactive portfolio with separate experience pages, navigation, and linked email, phone, and Facebook. Add employment dates and project screenshots before publishing.
